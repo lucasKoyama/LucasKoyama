@@ -5,6 +5,7 @@
 - 👨‍💻 All of my projects are available at [https://lucaskoyama.github.io/](https://lucaskoyama.github.io/)
 - 📫 Email: Lucaskoyamahhh@gmail.com || Cellphone: +55 (19) 99540-5067
 
+<br>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <!--LINUX-->
@@ -41,10 +42,13 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  
-  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaskoyamah)](https://github.com/lucaskoyamah/github-readme-stats)-->
-  
  </p>
+ 
+<br>
+<h3 align="center">Github status</h3>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasKoyama&theme=transparent&hide_border=true&text_color=ADBAC7&card_width=600px)](https://github.com/lucasKoyama/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasKoyama&theme=transparent&hide_border=true&text_color=ADBAC7&card_width=400px)](https://github.com/lucasKoyama/)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
