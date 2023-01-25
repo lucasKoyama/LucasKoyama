@@ -60,7 +60,7 @@
 <br>
 <h3 align="center">Where my code reached</h3>
 <div align="center">
-  <img src="map.png" alt="Places in Brazil that my code reached!">
+  <img src="map_places.png" alt="Places in Brazil that my code reached!">
 </div>
 
 <!---
