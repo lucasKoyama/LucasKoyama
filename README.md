@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Lucas Koyama</h1>
-<h3 align="center">&lt A Full-stack web developer interested in Web Apps, Data Science and Cybersecurity /&gt</h3>
+<h3 align="center">&ltA Full-stack web developer interested in Web Apps, Data Science and Cybersecurity/&gt</h3>
 
 - 🌱 I’m currently learning **full-stack web development at Trybe!!!**
 - 👨‍💻 All of my projects are available at [https://lucaskoyama.github.io/](https://lucaskoyama.github.io/)
