@@ -45,7 +45,7 @@
  </p>
  
 <br>
-<h3 align="center">Github status</h3>
+<!--<h3 align="center">Github status</h3>-->
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
