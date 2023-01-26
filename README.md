@@ -47,9 +47,6 @@
 <br>
 <h3 align="center">Github status</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasKoyama&theme=transparent&hide_border=true&text_color=ADBAC7)](https://github.com/lucasKoyama/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasKoyama&theme=transparent&hide_border=true&text_color=ADBAC7&card_width=360px)](https://github.com/lucasKoyama/)
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/lucas-koyama" target="blank">
