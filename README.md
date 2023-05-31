@@ -32,12 +32,6 @@
   </a>
 </p>
 
-<br>
-<h3 align="center">Where my code reached</h3>
-<div align="center">
-  <img src="map_places.png" alt="Places in Brazil that my code reached!">
-</div>
-
 <!---
 Lucaskoyamah/Lucaskoyamah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
