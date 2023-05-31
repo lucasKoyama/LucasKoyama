@@ -2,7 +2,7 @@
 <h3 align="center">&ltA Full-stack web developer interested in Web Apps, Data Science and Cybersecurity/&gt</h3>
 
 - 🌱 I’m currently learning **full-stack web development at Trybe!!!**
-- 👨‍💻 All of my projects are available at [portfolio]([https://lucaskoyama.github.io/](https://portfolio.lucaskoyama.vercel.app/))
+- 👨‍💻 All of my projects are available at [portfolio](https://portfolio.lucaskoyama.vercel.app/)
 - 📫 Email: Lucaskoyamahhh@gmail.com || Cellphone: +55 (19) 99540-5067
 
 <br>
