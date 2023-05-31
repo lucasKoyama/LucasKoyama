@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **full-stack web development at Trybe!!!**
 - 👨‍💻 All of my projects are available at [portfolio](https://portfolio.lucaskoyama.vercel.app/)
-- 📫 Email: Lucaskoyamahhh@gmail.com || Cellphone: +55 (19) 99540-5067
+- 📫 Email: Lucaskoyamahhh@gmail.com || Cellphone: [+55 (19) 99540-5067](https://wa.me/5519995405067)
 
 <br>
 <h3 align="center">Languages and Tools:</h3>
