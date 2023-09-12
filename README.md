@@ -1,8 +1,6 @@
 <h1 align="center">
   &lta href="portfolio"&gt<a href="https://portfolio.lucaskoyama.vercel.app/">Lucas Koyama Full stack dev</a>&lt/a&gt
 </h1>
-
-<h2 align="center">Contact</h2>
 <div align="center" dir="auto">
   <a href="https://wa.me/5519995405067">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;" />
@@ -16,7 +14,6 @@
 </div>
 
 <h2>Experience and Projects</h2>
-
 <p dir="auto"><a href="https://www.oncet.com.br/" rel="nofollow"><img align="left" height="94px" width="94px" alt="CJIB" src="https://www.oncet.com.br/images/favicon.png" style="max-width: 100%;"></a></p>
 <p dir="auto">
   <strong>Front end developer</strong> <br>
@@ -27,7 +24,7 @@
   <br>
 </p>
 
-<h2 align="center">Languages and Tools:</h2>
+<h2>Languages and Tools:</h2>
 <div align="start" dir="auto">
   <br>
   <strong>Fundamentals: </strong>
@@ -76,6 +73,9 @@
   <a href="https://zoom.us/" rel="nofollow"><img align="center" alt="Zoom" height="30" src="https://camo.githubusercontent.com/c6c90c4d74d5fad08da3e2c31c556ea8a8b45a6bd5756b6e49111d9825cde56f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5a6f6f6d2d3244384346463f7374796c653d666f722d7468652d6261646765266c6f676f3d7a6f6f6d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&amp;logo=zoom&amp;logoColor=white" style="max-width: 100%;"></a>
   <a href="https://discord.com/" rel="nofollow"><img align="center" alt="Discord" height="30" src="https://camo.githubusercontent.com/f868f43f3c084669121e55e633ca5c3e11d382872ab7db663789f5c736c71a43/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3538363546323f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" style="max-width: 100%;"></a>
 </div>
+
+<h3>Github Stats</h3>
+
 
 <!---
 Lucaskoyamah/Lucaskoyamah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
