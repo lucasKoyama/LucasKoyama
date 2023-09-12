@@ -24,7 +24,7 @@
           <a href="https://www.oncet.com.br/" rel="nofollow">
             <strong>ON-CET</strong>
           </a> • Freelance <br>
-          Languages &amp; Technologies: <br/> <code>HTML 5</code> <code>CSS 3</code> <code>Javascript ES6</code> <code>Git & Github</code>  <br>
+          Languages &amp; Technologies: <code>HTML 5</code> <code>CSS3</code> <code>Javascript ES6</code> <code>Git & Github</code>  
           <br>
         </p>
       </td>
@@ -35,7 +35,7 @@
           <a href="https://www.devs4good.com.br/" rel="nofollow">
             <strong>Devs4Good</strong>
           </a> • Freelance <br>
-          Languages &amp; Technologies: <br/> <code>React</code> <code>Vite</code> <code>Git & Github</code>
+          Languages &amp; Technologies: <code>React</code> <code>HTML 5</code> <code>CSS3</code> <code>Javascript ES6</code> <code>Vite</code> <code>Git & Github</code>
           <br>
         </p>
       </td>
