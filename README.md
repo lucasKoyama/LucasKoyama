@@ -13,7 +13,7 @@
   </a>
 </div>
 
-<h2>Experience and Projects</h2>
+<h2>:rocket: Experience and Projects</h2>
 <table align="center">
   <tbody>
     <tr>
