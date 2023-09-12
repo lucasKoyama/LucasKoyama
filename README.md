@@ -13,18 +13,38 @@
   </a>
 </div>
 
-<h2>Experience and Projects</h2>
-<p dir="auto"><a href="https://www.oncet.com.br/" rel="nofollow"><img align="left" height="94px" width="94px" alt="CJIB" src="https://www.oncet.com.br/images/favicon.png" style="max-width: 100%;"></a></p>
-<p dir="auto">
-  <strong>Front end developer</strong> <br>
-  <a href="https://www.oncet.com.br/" rel="nofollow">
-    <strong>ON-CET</strong>
-  </a> • Freelance <br>
-  Languages &amp; Technologies: <br/> <code>HTML 5</code> <code>CSS 3</code> <code>Javascript ES6</code> <code>Git & Github</code>  <br>
-  <br>
-</p>
+<h2 align="center">Experience and Projects</h2>
+<table align="center">
+  <tbody>
+    <tr>
+      <td width="600">
+        <a href="https://www.oncet.com.br/" rel="nofollow"><img align="left" height="94px" width="94px" alt="ON-CET" src="https://www.oncet.com.br/images/favicon.png" style="max-width: 100%;"></a>
+        <p dir="auto">
+          <strong>Front end developer</strong> <br>
+          <a href="https://www.oncet.com.br/" rel="nofollow">
+            <strong>ON-CET</strong>
+          </a> • Freelance <br>
+          Languages &amp; Technologies: <br/> <code>HTML 5</code> <code>CSS 3</code> <code>Javascript ES6</code> <code>Git & Github</code>  <br>
+          <br>
+        </p>
+      </td>
+      <td width="600">
+        <a href="https://www.devs4good.com.br/" rel="nofollow"><img align="left" height="94px" width="94px" alt="Devs4Good" src="https://www.devs4good.com.br/assets/header-astronaut-ac0308c6.webp" style="max-width: 100%;"></a>
+        <p dir="auto">
+          <strong>Front end developer</strong> <br>
+          <a href="https://www.devs4good.com.br/" rel="nofollow">
+            <strong>Devs4Good</strong>
+          </a> • Freelance <br>
+          Languages &amp; Technologies: <br/> <code>React</code> <code>Vite</code> <code>Git & Github</code>
+          <br>
+        </p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<h2>Languages and Tools:</h2>
+
+<h2 align="center">Languages and Tools:</h2>
 <div align="start" dir="auto">
   <br>
   <strong>Fundamentals: </strong>
@@ -76,7 +96,7 @@
 </div>
 <br>
 
-<div dir="auto">
+<div dir="auto" align="center">
   <img class="output" height="175" src="https://github-readme-stats.vercel.app/api?username=lucasKoyama&amp;theme=react&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
   <img class="output" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasKoyama&amp;theme=react&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="github top languages">
 </div>
