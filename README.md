@@ -13,11 +13,11 @@
   </a>
 </div>
 
-<h2 align="center">Experience and Projects</h2>
+<h2>Experience and Projects</h2>
 <table align="center">
   <tbody>
     <tr>
-      <td width="600">
+      <td width="800">
         <a href="https://www.oncet.com.br/" rel="nofollow"><img align="left" height="94px" width="94px" alt="ON-CET" src="https://www.oncet.com.br/images/favicon.png" style="max-width: 100%;"></a>
         <p dir="auto">
           <strong>Front end developer</strong> <br>
@@ -28,7 +28,7 @@
           <br>
         </p>
       </td>
-      <td width="600">
+      <td width="800">
         <a href="https://www.devs4good.com.br/" rel="nofollow"><img align="left" height="94px" width="94px" alt="Devs4Good" src="https://www.devs4good.com.br/assets/header-astronaut-ac0308c6.webp" style="max-width: 100%;"></a>
         <p dir="auto">
           <strong>Front end developer</strong> <br>
@@ -44,7 +44,7 @@
 </table>
 
 
-<h2 align="center">Languages and Tools:</h2>
+<h2>Languages and Tools:</h2>
 <div align="start" dir="auto">
   <br>
   <strong>Fundamentals: </strong>
