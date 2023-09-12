@@ -27,190 +27,55 @@
 <h3 align="center"><a href="https://portfolio.lucaskoyama.vercel.app/" target="_blank">👨‍💻 Portfolio</a></h3>
 
 <h2 align="center">Languages and Tools:</h2>
-<!-- ----- FRONT END ----- -->
-<table align="center">
-  <thead>
-    <tr>
-      <th colspan="3">Front-end</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><th colspan="3">Fundamentals</th></tr>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://camo.githubusercontent.com/da7acacadecf91d6dc02efcd2be086bb6d78ddff19a1b7a0ab2755a6fda8b1e9/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" width="48px"/>
-        <strong>HTML</strong>
-      </td>
-      <td align="center" width="100">
-        <img src="https://camo.githubusercontent.com/2e496d4bfc6f753ddca87b521ce95c88219f77800212ffa6d4401ad368c82170/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667" width="48px"/>
-        <strong>CSS</strong>
-      </td>
-      <td align="center" width="100">
-        <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="48px"/>
-        <strong>JavaScript</strong>
-      </td>
-    </tr>
-    <tr><th colspan="3">Frameworks and libraries</th></tr>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://camo.githubusercontent.com/c55a5fc9aee6efafa01a33c78502d5b075fc9071df09f7c36bd59665de0ebbd4/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6578746a73" width="48px"/>
-        <strong>Next</strong>
-      </td>
-      <td align="center" width="100">
-        <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="48px"/>
-        <strong>React</strong>
-      </td>
-      <td align="center" width="100">
-        <img src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" width="48px"/>
-        <strong>Material UI</strong>
-      </td>
-    </tr>
-    <tr><th colspan="3">Global State Managment</th></tr>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" width="48px"/>
-        <strong>Redux</strong>
-      </td>
-      <td align="center" width="100">
-        <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="48px"/>
-        <strong>Context</strong>
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div align="start" dir="auto">
+  <br>
+  <strong>Fundamentals: </strong>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" rel="nofollow" target="_blank"><img align="center" alt="HTML" height="30" src="https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" rel="nofollow"><img align="center" alt="CSS" height="30" src="https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img align="center" alt="JavaScript" height="30" src="https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebca330feb161f1fb8e1188204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" style="max-width: 100%;"></a>
+  <a href="https://www.typescriptlang.org/" rel="nofollow"><img align="center" alt="TypeScript" height="30" src="https://camo.githubusercontent.com/6cf9abe9d706421df40ff4feff208a5728df2b77f9eb21f24d09df00a0d69203/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" style="max-width: 100%;"></a>
+    <a href="https://git-scm.com/doc" rel="nofollow"><img align="center" alt="Git" height="30" src="https://camo.githubusercontent.com/b79abd03f64d1f015ce8ddd3b3a6b52ee25fe62aef6d1ce5da71d08c0dcde297/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&amp;logo=git&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://github.com/" rel="nofollow"><img align="center" alt="GitHub" height="30" src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="max-width: 100%;"></a>
+  <img align="center" alt="Linux" height="30" src="https://camo.githubusercontent.com/878e15b4f7576e844856dc60d855ba0587d3d2bc56211fbe69734ebccb13b068/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" style="max-width: 100%;">
+  <img align="center" alt="Bash" height="30" src="https://camo.githubusercontent.com/638ebef37d186ebf588b89d5124b1d2151234a3f21293f08b82cbad81cc9ac7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f474e55253230426173682d3445414132353f7374796c653d666f722d7468652d6261646765266c6f676f3d474e5525323042617368266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&amp;logo=GNU%20Bash&amp;logoColor=white" style="max-width: 100%;">
+  <br>
+  
+  <br>
+  <strong>Front-end: </strong>
+  <a href="https://react.dev/" rel="nofollow"><img align="center" alt="React" height="30" src="https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642" data-canonical-src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" style="max-width: 100%;"></a>
+  <a href="https://reactrouter.com/en/main" rel="nofollow"><img align="center" alt="React-router" height="30" src="https://camo.githubusercontent.com/4f9d20f3a284d2f6634282f61f82a62e99ee9906537dc9859decfdc9efbb51ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163745f526f757465722d4341343234353f7374796c653d666f722d7468652d6261646765266c6f676f3d72656163742d726f75746572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&amp;logo=react-router&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://redux.js.org/" rel="nofollow"><img align="center" alt="Redux" height="30" src="https://camo.githubusercontent.com/6908bc5919e46cd787b8e5117f092f5ed37da82e8bd602e6339060ea0fff722c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d3539334438383f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&amp;logo=redux&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://vitejs.dev/" rel="nofollow"><img align="center" alt="Vite" height="30" src="https://camo.githubusercontent.com/a6d8d36938723d10c583712f831eeca2144cc6e20f9493ce998cca15c0d04826/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f766974652d2532333634364346462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697465266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&amp;logo=vite&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a target="_blank" rel="nofollow" href="https://nextjs.org/"><img align="center" alt="Next" height="30" src="https://camo.githubusercontent.com/3a092edcd6d57d9bd83ad74ba2cce29b6963102d3aa479817b75bcd60a304aab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6578742532306a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6e657874646f746a73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://mui.com/" rel="nofollow"><img align="center" alt="MaterialUI" height="30" src="https://camo.githubusercontent.com/1eb36d14501371162c4572130c4148595e523a3cabf4144c73dda77e7557c813/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d55492d2532333030383143422e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7569266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&amp;logo=mui&amp;logoColor=white" style="max-width: 100%;"></a>
+  <br>
+  
+  <br>
+  <strong>Back-end: </strong>
+  <a href="https://nodejs.org/en" rel="nofollow"><img align="center" alt="NodeJS" height="30" src="https://camo.githubusercontent.com/7d7b100e379663ee40a20989e6c61737e6396c1dafc3a7c6d2ada8d4447eb0e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d3644413535463f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://expressjs.com/" rel="nofollow"><img align="center" alt="ExpressJS" height="30" src="https://camo.githubusercontent.com/8286a45a106e1a3c07489f83a38159981d888518a740b59c807ffc1b7b1e2f7b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f657870726573732e6a732d2532333430346435392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d253233363144414642" data-canonical-src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&amp;logo=express&amp;logoColor=%2361DAFB" style="max-width: 100%;"></a>
+  <a href="https://dev.mysql.com/doc/" rel="nofollow"><img align="center" alt="MySQL" height="30" src="https://camo.githubusercontent.com/918fce8d50581bd97b7133e677a78ed2cad14f970522f219daaeb6d1c81060e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d2532333030662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://sequelize.org/" rel="nofollow"><img align="center" alt="Sequelize" height="30" src="https://camo.githubusercontent.com/6c50eb6f911b1bcb4c0b790fb5e908bf896c525685839fa802c41349dcd1c8bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53657175656c697a652d3532423045373f7374796c653d666f722d7468652d6261646765266c6f676f3d53657175656c697a65266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&amp;logo=Sequelize&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://docs.docker.com/" rel="nofollow"><img align="center" alt="Docker" height="30" src="https://camo.githubusercontent.com/6b7f701cf0bea42833751b754688f1a27b6090fdf90bf2b226addff01be817f0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d2532333064623765642e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white" style="max-width: 100%;"></a>
+  <br>
 
-<!-- ----- BACK END ----- -->
-<table align="center">
-  <thead>
-    <tr>
-      <th colspan="3">Back-end</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="48px"/>
-        <strong>Node.js</strong>
-      </td>
-      <td align="center" width="100">
-        <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" width="48px"/>
-        <strong>Docker</strong>
-      </td>
-      <td align="center" width="100">
-        <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="48px"/>
-        <strong>MySQL</strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="48px"/>
-        <strong>TypeScript</strong>
-      </td>
-      <td align="center" width="100">
-        <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" width="48px"/>
-        <strong>Express</strong>
-      </td>
-      <td align="center" width="100">
-        <img src="https://avatars3.githubusercontent.com/u/3591786?s=400&v=4" width="48px"/>
-        <strong>Sequelize</strong>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="3" align="center" width="100">
-        <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" width="48px"/>
-        <p><strong>RESTful API</strong></p>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<!-- ----- TESTS E2E ----- -->
-<table align="center">
-  <thead>
-    <tr>
-      <th colspan="4">Tests</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" width="48px"/>
-        <strong>Jest</strong>
-      </td>
-      <td align="center" width="100">
-        <img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" width="48px"/>
-        <strong>Cypress</strong>
-      </td>
-      <td align="center" width="100">
-        <img src="https://user-images.githubusercontent.com/25181517/201476630-f47cfff6-fdee-4ee1-9092-1793b71b1ca3.png" width="48px"/>
-        <strong>Mocha</strong>
-      </td>
-      <td align="center" width="100">
-        <img src="https://user-images.githubusercontent.com/25181517/201476472-d2f5f644-cfc9-43e5-96d3-c8f40f18b5cb.png" width="48px"/>
-        <strong>Chai</strong>
-      </td>
-    </tr>
-  </tbody>
-</table>
-<p align="center"><em>Acquainted with those testing techs. <br /> But still learning how to write tests on them</em></p>
-
-<!-- ----- OTHERS ----- -->
-<table align="center">
-  <thead>
-    <tr>
-      <th colspan="4">Others</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://camo.githubusercontent.com/88034950e03b3c109dec93b1e35db0d960bf4fceb748d80a131363bd2336e12e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c696e7578" width="48px"/>
-        <strong>Linux</strong>
-      </td>
-      <td align="center" width="100">
-        <img src="https://camo.githubusercontent.com/91cb2d6fea50cb02a87fb5b3ce753df33ac0f7eaad04cd5c4d6c66ca2c9ccf91/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f676e75626173682f3445414132352e737667" width="48px"/>
-        <strong>Bash</strong>
-      </td>
-      <td align="center" width="100">
-        <img src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667" width="48px"/>
-        <strong>Git</strong>
-      </td>
-      <td align="center" width="100">
-        <img src="https://camo.githubusercontent.com/92631e070b02a2a71121742c47e0d536806b030302755ac5a838e507c8adc292/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974687562" width="48px"/>
-        <strong>GitHub</strong>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<!-- ----- COMMUNICATION DURING WORK ----- -->
-<table align="center">
-  <thead>
-    <tr>
-      <th colspan="4">Communication During Work</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" width="100">
-        <img src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036"/>
-        <strong>Miro</strong>
-      </td>
-      <td align="center" width="100">
-        <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
-        <strong>Slack</strong>
-      </td>
-      <td align="center" width="100">
-        <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/>
-        <strong>Zoom</strong>
-      </td>
-      <td align="center" width="100">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-        <strong>Discord</strong>
-      </td>
-    </tr>
-  </tbody>
-</table>
+  <br>
+  <strong>Tests (E2E): </strong>
+  <a href="https://jestjs.io/docs/getting-started" rel="nofollow"><img align="center" alt="Jest" height="30" src="https://camo.githubusercontent.com/50192f803c169b9d425e740281b58ae35c954c51fc57b9b068453a1934dfcef0/68747470733a2f2f692e696d6775722e636f6d2f574c4c365369492e706e67" data-canonical-src="https://i.imgur.com/WLL6SiI.png" style="max-width: 100%;"></a>
+  <a href="https://testing-library.com/docs/react-testing-library/intro/" rel="nofollow"><img align="center" alt="RTL" height="30" src="https://camo.githubusercontent.com/1b37a34990de4066db9a9d10404501493c326460b31bc671e13ff1fb725829b3/68747470733a2f2f692e696d6775722e636f6d2f53535a476643372e706e67" data-canonical-src="https://i.imgur.com/SSZGfC7.png" style="max-width: 100%;"></a>
+  <a href="https://mochajs.org/" rel="nofollow"><img align="center" alt="Mocha" height="30" src="https://camo.githubusercontent.com/46e44694ec7a20834156ecc84bc22d07041edc0de17202b343f2d99d43b4ba9b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6d6f6368612d2532333844363734383f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f636861266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&amp;logo=mocha&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://www.cypress.io/" rel="nofollow"><img align="center" alt="Cypress" height="30" src="https://camo.githubusercontent.com/89c8d004671c2e98b238442d0a79401aeb7a612c69f3a337baa0a3435a65b676/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f437970726573732d3137323032433f7374796c653d666f722d7468652d6261646765266c6f676f3d63797072657373266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" style="max-width: 100%;"></a>
+  <br>
+  <em>Acquainted with those testing techs, but still learning how to write tests on them</em>
+  <br>
+  
+  <br>
+  <strong>Communication at Work</strong>
+  <a href="https://miro.com/" rel="nofollow"><img align="center" alt="Miro" height="30" src="https://camo.githubusercontent.com/1dc2db4a48e02b49611035123bd404668d7dfb21186e4d937674f7cf19825d42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d69726f2d4637433932323f7374796c653d666f722d7468652d6261646765266c6f676f3d4d69726f266c6f676f436f6c6f723d303530303336" data-canonical-src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&amp;logo=Miro&amp;logoColor=050036" style="max-width: 100%;"></a>
+  <a href="https://slack.com/" rel="nofollow"><img align="center" alt="Slack" height="30" src="https://camo.githubusercontent.com/870d2945e15dde83583f64ea1f3f4471702e45bf30fa884412da74cb7731ae42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536c61636b2d3441313534423f7374796c653d666f722d7468652d6261646765266c6f676f3d736c61636b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&amp;logo=slack&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://zoom.us/" rel="nofollow"><img align="center" alt="Zoom" height="30" src="https://camo.githubusercontent.com/c6c90c4d74d5fad08da3e2c31c556ea8a8b45a6bd5756b6e49111d9825cde56f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5a6f6f6d2d3244384346463f7374796c653d666f722d7468652d6261646765266c6f676f3d7a6f6f6d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&amp;logo=zoom&amp;logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://discord.com/" rel="nofollow"><img align="center" alt="Discord" height="30" src="https://camo.githubusercontent.com/f868f43f3c084669121e55e633ca5c3e11d382872ab7db663789f5c736c71a43/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3538363546323f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" style="max-width: 100%;"></a>
+</div>
 
 <!---
 Lucaskoyamah/Lucaskoyamah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
