@@ -43,7 +43,7 @@
   </tbody>
 </table>
 <h3 align="center">
-  <a href="https://portfolio.lucaskoyama.vercel.app/"> Portfolio </a>👨‍💻<a href="https://portfolio.lucaskoyama.vercel.app/"> Curriculum </a>
+  <a href="https://portfolio.lucaskoyama.vercel.app/"> Portfolio </a>👨‍💻<a href="https://github.com/lucasKoyama/LucasKoyama/blob/main/Lucas%20Koyama%20CV.pdf" download> Curriculum </a>
 </h3>
 
 <h2>:hammer_and_wrench: Languages and Tools:</h2>
