@@ -1,9 +1,20 @@
 <h1 align="center">👋 Hi, I'm Lucas Koyama</h1>
-<h3 align="center">&ltA Full-stack web developer interested in Web Apps, Data Science and Cybersecurity/&gt</h3>
+<h3 align="center">&ltFull-stack web developer /&gt</h3>
 
-- 🌱 I’m currently learning **full-stack web development at Trybe!!!**
-- 👨‍💻 All of my projects are available at [portfolio](https://portfolio.lucaskoyama.vercel.app/)
-- 📫 Email: Lucaskoyamahhh@gmail.com || Cellphone: [+55 (19) 99540-5067](https://wa.me/5519995405067)
+<h2 align="center">Contact</h2>
+<div align="center" dir="auto">
+  <a href="https://wa.me/5519995405067">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;" />
+  </a>
+  <a href="https://www.linkedin.com/in/lucas-koyama/" rel="nofollow">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" style="max-width: 100%;" />
+  </a>
+  <a href="mailto:lucaskoyamahhh@gmail.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;" />
+  </a>
+</div>
+
+<h2 align="center"><a href="https://portfolio.lucaskoyama.vercel.app/" target="_blank">👨‍💻 Portfolio</a></h2>
 
 <h3 align="center">Languages and Tools:</h3>
 <!-- ----- FRONT END ----- -->
@@ -190,13 +201,6 @@
     </tr>
   </tbody>
 </table>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/lucas-koyama" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lucas Koyama LinkedIn" height="30" width="40" />
-  </a>
-</p>
 
 <!---
 Lucaskoyamah/Lucaskoyamah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
