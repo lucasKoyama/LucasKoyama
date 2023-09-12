@@ -72,12 +72,13 @@
   <a href="https://slack.com/" rel="nofollow"><img align="center" alt="Slack" height="30" src="https://camo.githubusercontent.com/870d2945e15dde83583f64ea1f3f4471702e45bf30fa884412da74cb7731ae42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536c61636b2d3441313534423f7374796c653d666f722d7468652d6261646765266c6f676f3d736c61636b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&amp;logo=slack&amp;logoColor=white" style="max-width: 100%;"></a>
   <a href="https://zoom.us/" rel="nofollow"><img align="center" alt="Zoom" height="30" src="https://camo.githubusercontent.com/c6c90c4d74d5fad08da3e2c31c556ea8a8b45a6bd5756b6e49111d9825cde56f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5a6f6f6d2d3244384346463f7374796c653d666f722d7468652d6261646765266c6f676f3d7a6f6f6d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&amp;logo=zoom&amp;logoColor=white" style="max-width: 100%;"></a>
   <a href="https://discord.com/" rel="nofollow"><img align="center" alt="Discord" height="30" src="https://camo.githubusercontent.com/f868f43f3c084669121e55e633ca5c3e11d382872ab7db663789f5c736c71a43/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3538363546323f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" style="max-width: 100%;"></a>
+  <br>
 </div>
+<br>
 
-<h3>Github Stats</h3>
 <div dir="auto">
-  <img class="output" width="45%" height="195" src="https://github-readme-stats.vercel.app/api?username=lucasKoyama&amp;theme=react&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
-  <img class="output" width="44%" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasKoyama&amp;theme=react&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="github top languages">
+  <img class="output" height="175" src="https://github-readme-stats.vercel.app/api?username=lucasKoyama&amp;theme=react&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
+  <img class="output" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasKoyama&amp;theme=react&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="github top languages">
 </div>
 
 
