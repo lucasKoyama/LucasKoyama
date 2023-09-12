@@ -1,5 +1,5 @@
 <h1 align="center">
-  &lta href="portfolio"&gt<a href="https://portfolio.lucaskoyama.vercel.app/">Lucas Koyama Full stack web developer</a>&lt/a&gt
+  &lta href="portfolio"&gt<a href="https://portfolio.lucaskoyama.vercel.app/">Lucas Koyama Full stack dev</a>&lt/a&gt
 </h1>
 
 <h2 align="center">Contact</h2>
