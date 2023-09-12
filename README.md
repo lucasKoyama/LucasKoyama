@@ -42,9 +42,11 @@
     </tr>
   </tbody>
 </table>
-<h3 align="center"><a href="https://portfolio.lucaskoyama.vercel.app/">Portfolio</a></h3>
+<h3 align="center">
+  <a href="https://portfolio.lucaskoyama.vercel.app/"> Portfolio </a>👨‍💻<a href="https://portfolio.lucaskoyama.vercel.app/"> Curriculum </a>
+</h3>
 
-<h2>Languages and Tools:</h2>
+<h2>:hammer_and_wrench: Languages and Tools:</h2>
 <div align="start" dir="auto">
   <br>
   <strong>Fundamentals: </strong>
