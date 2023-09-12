@@ -42,7 +42,7 @@
     </tr>
   </tbody>
 </table>
-
+<h3 align="center"><a href="https://portfolio.lucaskoyama.vercel.app/">Portfolio</a></h3>
 
 <h2>Languages and Tools:</h2>
 <div align="start" dir="auto">
