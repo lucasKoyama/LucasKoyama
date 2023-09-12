@@ -75,6 +75,10 @@
 </div>
 
 <h3>Github Stats</h3>
+<div dir="auto">
+  <img class="output" width="45%" height="195" src="https://github-readme-stats.vercel.app/api?username=lucasKoyama&amp;theme=react&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
+  <img class="output" width="44%" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasKoyama&amp;theme=react&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="github top languages">
+</div>
 
 
 <!---
