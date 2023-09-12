@@ -1,4 +1,6 @@
-<h1 align="center">Lucas Koyama a full-stack web developer</h1>
+<h1 align="center">
+  &lta href="portfolio"&gt<a href="https://portfolio.lucaskoyama.vercel.app/">Lucas Koyama Full stack web developer</a>&lt/a&gt
+</h1>
 
 <h2 align="center">Contact</h2>
 <div align="center" dir="auto">
@@ -24,7 +26,6 @@
   Languages &amp; Technologies: <br/> <code>HTML 5</code> <code>CSS 3</code> <code>Javascript ES6</code> <code>Git & Github</code>  <br>
   <br>
 </p>
-<h3 align="center"><a href="https://portfolio.lucaskoyama.vercel.app/" target="_blank">👨‍💻 Portfolio</a></h3>
 
 <h2 align="center">Languages and Tools:</h2>
 <div align="start" dir="auto">
