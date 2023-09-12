@@ -1,5 +1,4 @@
-<h1 align="center">👋 Hi, I'm Lucas Koyama</h1>
-<h3 align="center">&ltFull-stack web developer /&gt</h3>
+<h1 align="center">Hi, I'am Lucas Koyama a full-stack web developer</h1>
 
 <h2 align="center">Contact</h2>
 <div align="center" dir="auto">
@@ -14,9 +13,20 @@
   </a>
 </div>
 
-<h2 align="center"><a href="https://portfolio.lucaskoyama.vercel.app/" target="_blank">👨‍💻 Portfolio</a></h2>
+<h2>Experience and Projects</h2>
 
-<h3 align="center">Languages and Tools:</h3>
+<p dir="auto"><a href="https://www.oncet.com.br/" rel="nofollow"><img align="left" height="94px" width="94px" alt="CJIB" src="https://www.oncet.com.br/images/favicon.png" style="max-width: 100%;"></a></p>
+<p dir="auto">
+  <strong>Front end developer</strong> <br>
+  <a href="https://www.oncet.com.br/" rel="nofollow">
+    <strong>ON-CET</strong>
+  </a> • Freelance <br>
+  Languages &amp; Technologies: <br/> <code>HTML 5</code> <code>CSS 3</code> <code>Javascript ES6</code> <code>Git & Github</code>  <br>
+  <br>
+</p>
+<h3 align="center"><a href="https://portfolio.lucaskoyama.vercel.app/" target="_blank">👨‍💻 Portfolio</a></h3>
+
+<h2 align="center">Languages and Tools:</h2>
 <!-- ----- FRONT END ----- -->
 <table align="center">
   <thead>
