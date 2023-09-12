@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'am Lucas Koyama a full-stack web developer</h1>
+<h1 align="center">Lucas Koyama a full-stack web developer</h1>
 
 <h2 align="center">Contact</h2>
 <div align="center" dir="auto">
