@@ -103,7 +103,7 @@
   <img class="output" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasKoyama&amp;theme=react&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="github top languages">
 </div>
 
-
+inspired by: [roaldnefs](https://github.com/roaldnefs/roaldnefs) and [jfzini](https://github.com/jfzini)
 <!---
 Lucaskoyamah/Lucaskoyamah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
