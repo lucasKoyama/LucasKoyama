@@ -18,7 +18,7 @@
   <tbody>
     <tr>
       <td width="800" height="150">
-        <a href="https://www.oncet.com.br/" rel="nofollow"><img align="left" height="94px" width="94px" alt="ON-CET" src="https://www.oncet.com.br/images/favicon.png" style="max-width: 100%;"></a>
+        <a href="https://www.oncet.com.br/" rel="nofollow"><img align="left" height="94px" width="94px" alt="ON-CET" src="https://github.com/lucasKoyama/LucasKoyama/blob/main/oncet_icon.png" style="max-width: 100%;"></a>
         <p dir="auto">
           <strong>Front end developer</strong> <br>
           <a href="https://www.oncet.com.br/" rel="nofollow">
