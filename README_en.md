@@ -16,7 +16,7 @@
   <table>
     <tbody>
       <tr>
-        <td><a href="https://github.com/lucasKoyama/LucasKoyama/blob/main/README_pt.md">🇧🇷 Português</a></td>
+        <td><a href="https://github.com/lucasKoyama/LucasKoyama/blob/main/README.md">🇧🇷 Português</a></td>
         <td><a href="https://github.com/lucasKoyama/LucasKoyama/blob/main/README_en.md">🇺🇸 English</a></td>
       </tr>
     </tbody>
