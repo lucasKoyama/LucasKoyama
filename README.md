@@ -114,6 +114,38 @@
 </div>
 
 Inspirado em: [roaldnefs](https://github.com/roaldnefs/roaldnefs) e [jfzini](https://github.com/jfzini)
+
+<h2 align="center">Sentiu falta de um "sobre"?</h2>
+<article>
+  <details>
+    <summary>O que eu busco fazer? 💡</summary>
+    <br>
+    <p>Agregar valor para as pessoas por meio do meu trabalho, seja resolvendo problemas, facilitando a comunicação entre partes, agilizando e otimizando processos, enfim tudo aquilo que gera resultados e bota um sorriso no rosto de alguém. 🤩 📈</p>
+  </details>
+  <details>
+    <summary>Como eu faço isso? 🤔</summary>
+    <br>
+    <p>Eu traço (e, quando necessário, reajusto) um plano de aprendizado a seguir, priorizando os conhecimentos que mais contribuirão para a obtenção de resultados excelentes, sempre respeitando as bases para que eu possa desenvolver soluções mais completas e satisfatorias. 🧭<br>Além disso, quando em equipe, colaboro com pessoas para somar uma diversidade de visões ao resultado final. 🫱🏼‍🫲🏾</p>
+    <details>
+      <summary>Exemplo?</summary>
+      <br>
+      <p>Notei que tenho aptidão para o front-end ao ter estudado React. Portanto, iniciei o estudo do Next para melhorar o SEO e manter a produtividade do React. Ao mesmo tempo, estou adquirindo conhecimentos em UX para proporcionar uma experiência do usuário superior. Dessa forma, sou capaz de criar páginas agradáveis para os usuários, que também se destacam nos motores de busca. 😉</p>
+    </details>
+  </details>
+  <details>
+    <summary>Por que eu faço isso? 🧩</summary>
+    <br>
+    <p>Durante minha transição de carreira, passei por um profundo processo de autoconhecimento e desenvolvimento pessoal. Nele, percebi que sinto um imenso prazer em desenvolver soluções e melhorias seguindo os passos:</p>
+    <ol>
+      <li>Compreender minhas próprias necessidades e as dos outros (sou curioso); 🔎</li>
+      <li>
+        Trabalhar na busca de soluções para essas necessidades (gosto de desafios); 👨‍💻<br>
+        2.1 Às vezes, retorno ao passo 1 quando percebo que preciso adquirir mais conhecimento; 🧠
+      </li>
+      <li>Concluir a solução (neste momento, sinto uma grande satisfação) e ver outras pessoas extremamente satisfeitas com os resultados (um dos meus maiores porquês). 🔋</li>
+    </ol>
+  </details>
+</article>
 <!---
 Lucaskoyamah/Lucaskoyamah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
