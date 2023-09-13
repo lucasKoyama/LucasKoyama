@@ -12,6 +12,16 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" style="max-width: 100%;" />
   </a>
 </div>
+<div align="center">
+  <table>
+    <tbody>
+      <tr>
+        <td><a href="https://github.com/lucasKoyama/LucasKoyama/blob/main/README_pt.md">🇧🇷 Português</a></td>
+        <td><a href="https://github.com/lucasKoyama/LucasKoyama/blob/main/README_en.md">🇺🇸 English</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <h2>:rocket: Experience and Projects</h2>
 <table align="center">
