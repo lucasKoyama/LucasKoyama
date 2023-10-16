@@ -1,5 +1,5 @@
 <h1 align="center">
-  &lta href="portfolio"&gt<a href="https://portfolio.lucaskoyama.vercel.app/">Lucas Koyama Full stack dev</a>&lt/a&gt
+  &lta href="portfolio"&gt<a href="https://lucaskoyama.dev/">Lucas Koyama Full stack dev</a>&lt/a&gt
 </h1>
 <div align="center" dir="auto">
   <a href="https://wa.me/5519995405067">
@@ -53,7 +53,7 @@
   </tbody>
 </table>
 <h3 align="center">
-  <a href="https://portfolio.lucaskoyama.vercel.app/"> Portfolio </a>👨‍💻
+  <a href="https://lucaskoyama.dev/"> Portfolio </a>👨‍💻
 </h3>
 
 <h2>:hammer_and_wrench: Languages and Tools:</h2>
