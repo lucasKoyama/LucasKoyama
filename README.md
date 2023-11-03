@@ -1,5 +1,5 @@
 <h1 align="center">
-  &lta href="portfolio"&gt<a href="https://lucaskoyama.dev/">Lucas Koyama Full stack dev</a>&lt/a&gt
+  &lta href="portfolio"&gt <a href="https://lucaskoyama.dev/">Lucas Koyama Full stack dev</a> &lt/a&gt
 </h1>
 <div align="center" dir="auto">
   <a href="https://wa.me/5519995405067">
