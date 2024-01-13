@@ -77,6 +77,7 @@
   <a href="https://redux.js.org/" rel="nofollow"><img align="center" alt="Redux" height="30" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" style="max-width: 100%;"></a>
   <a href="https://vitejs.dev/" rel="nofollow"><img align="center" alt="Vite" height="30" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" style="max-width: 100%;"></a>
   <a href="https://mui.com/" rel="nofollow"><img align="center" alt="MaterialUI" height="30" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://mui.com/" rel="nofollow"><img align="center" alt="Tailwind CSS" height="30" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" style="max-width: 100%;"></a>
   <br>
   
   <br>
@@ -84,6 +85,7 @@
   <a href="https://nestjs.com/" rel="nofollow"><img align="center" alt="NestJS" height="30" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" style="max-width: 100%;"></a>
   <a href="https://nodejs.org/en" rel="nofollow"><img align="center" alt="NodeJS" height="30" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="max-width: 100%;"></a>
   <a href="https://expressjs.com/" rel="nofollow"><img align="center" alt="ExpressJS" height="30" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://expressjs.com/" rel="nofollow"><img align="center" alt=".NET" height="30" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" style="max-width: 100%;"></a>
   <a href="https://docs.docker.com/" rel="nofollow"><img align="center" alt="Docker" height="30" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" style="max-width: 100%;"></a>
   <br>
 
@@ -102,6 +104,12 @@
   <a href="https://www.cypress.io/" rel="nofollow"><img align="center" alt="Cypress" height="30" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" style="max-width: 100%;"></a>
   <br>
   <em>Acostumado com essas tecnologias de teste, mas ainda aprendendo como escrever testes nelas.</em>
+  <br>
+
+  <br>
+  <strong>Qualidade de código</strong><br>
+  <a href="https://eslint.org/" rel="nofollow"><img align="center" alt="eslint" height="30" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" style="max-width: 100%;"></a>
+  <a rel="nofollow"><img align="center" alt="eslint" height="30" src="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white" style="max-width: 100%;"></a>
   <br>
   
   <br>
