@@ -74,6 +74,7 @@
   <a target="_blank" rel="nofollow" href="https://nextjs.org/"><img align="center" alt="Next" height="30" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" style="max-width: 100%;"></a>
   <a href="https://react.dev/" rel="nofollow"><img align="center" alt="React" height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="max-width: 100%;"></a>
   <a href="https://reactrouter.com/en/main" rel="nofollow"><img align="center" alt="React-router" height="30" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://legacy.reactjs.org/docs/context.html" rel="nofollow"><img align="center" alt="Context API" height="30" src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react" style="max-width: 100%;"></a>
   <a href="https://redux.js.org/" rel="nofollow"><img align="center" alt="Redux" height="30" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" style="max-width: 100%;"></a>
   <a href="https://vitejs.dev/" rel="nofollow"><img align="center" alt="Vite" height="30" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" style="max-width: 100%;"></a>
   <a href="https://mui.com/" rel="nofollow"><img align="center" alt="MaterialUI" height="30" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" style="max-width: 100%;"></a>
@@ -85,7 +86,8 @@
   <a href="https://nestjs.com/" rel="nofollow"><img align="center" alt="NestJS" height="30" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" style="max-width: 100%;"></a>
   <a href="https://nodejs.org/en" rel="nofollow"><img align="center" alt="NodeJS" height="30" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="max-width: 100%;"></a>
   <a href="https://expressjs.com/" rel="nofollow"><img align="center" alt="ExpressJS" height="30" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" style="max-width: 100%;"></a>
-  <a href="https://expressjs.com/" rel="nofollow"><img align="center" alt=".NET" height="30" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" style="max-width: 100%;"></a>
+  <a href="https://jwt.io/introduction" rel="nofollow"><img align="center" alt="JWT" height="30" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" style="max-width: 100%;"></a>
+  <a href="https://dotnet.microsoft.com/pt-br/learn/dotnet/what-is-dotnet" rel="nofollow"><img align="center" alt=".NET" height="30" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" style="max-width: 100%;"></a>
   <a href="https://docs.docker.com/" rel="nofollow"><img align="center" alt="Docker" height="30" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" style="max-width: 100%;"></a>
   <br>
 
