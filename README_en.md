@@ -153,14 +153,14 @@
   <details>
     <summary>Why do I do that? 🧩</summary>
     <br>
-    <p>Durante minha transição de carreira, passei por um profundo processo de autoconhecimento e desenvolvimento pessoal. Nele, percebi que sinto um imenso prazer em desenvolver soluções e melhorias seguindo os passos:</p>
+    <p>During my career transition, I went through a profound process of self-knowledge and personal development. In it, I realized that I feel immense pleasure in developing solutions and improvements by following the steps:</p>
     <ol>
-      <li>Compreender minhas próprias necessidades e as dos outros (sou curioso); 🔎</li>
+      <li>Understand my own needs and those of others (I'm curious); 🔎</li>
       <li>
-        Trabalhar na busca de soluções para essas necessidades (gosto de desafios); 👨‍💻<br>
-        2.1 Às vezes, retorno ao passo 1 quando percebo que preciso adquirir mais conhecimento; 🧠
+        Work to find solutions to these needs (I like challenges); 👨‍💻<br>
+        2.1 Sometimes I return to step 1 when I realize that I need to acquire more knowledge; 🧠
       </li>
-      <li>Concluir a solução (neste momento, sinto uma grande satisfação) e ver outras pessoas extremamente satisfeitas com os resultados (um dos meus maiores porquês). 🔋</li>
+      <li>Completing the solution (at this moment, I feel great satisfaction) and seeing other people extremely satisfied with the results (one of my biggest reasons). 🔋</li>
     </ol>
   </details>
 </article>
