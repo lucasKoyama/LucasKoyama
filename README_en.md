@@ -127,6 +127,44 @@
   <img class="output" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasKoyama&amp;theme=react&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="github top languages">
 </div>
 
+<h2 align="center">Missed an "about me"?</h2>
+<article>
+  <details>
+    <summary>What do I do? 💡</summary>
+    <br>
+    <p>
+      I add value to people through my work, be it solving problems, facilitating communication between parties, streamlining and optimizing processes. In short, everything that generates results and puts a smile on someone's face. 🤩 📈
+    </p>
+  </details>
+  <details>
+    <summary>How do I do that? 🤔</summary>
+    <br>
+    <p>
+      I develop a roadmap (and, when necessary, readjust), a learning path to follow, prioritizing the knowledge that will contribute most to obtaining excellent results, always respecting the fundamentals so that I can develop more complete and satisfactory solutions. 🧭<br>In addition, when as a team, I collaborate with people to add a diversity of visions to the final result. 🫱🏼‍🫲🏾
+    </p>
+    <details>
+      <summary>Example?</summary>
+      <br>
+      <p>
+        I noticed that I have an aptitude for the front-end after studying React. Therefore, I started studying Next to improve SEO and maintain React productivity. At the same time, I am acquiring UX knowledge to provide a superior user experience. This way, I am able to create user-pleasing pages that also stand out in search engine results. 😉
+      </p>
+    </details>
+  </details>
+  <details>
+    <summary>Why do I do that? 🧩</summary>
+    <br>
+    <p>Durante minha transição de carreira, passei por um profundo processo de autoconhecimento e desenvolvimento pessoal. Nele, percebi que sinto um imenso prazer em desenvolver soluções e melhorias seguindo os passos:</p>
+    <ol>
+      <li>Compreender minhas próprias necessidades e as dos outros (sou curioso); 🔎</li>
+      <li>
+        Trabalhar na busca de soluções para essas necessidades (gosto de desafios); 👨‍💻<br>
+        2.1 Às vezes, retorno ao passo 1 quando percebo que preciso adquirir mais conhecimento; 🧠
+      </li>
+      <li>Concluir a solução (neste momento, sinto uma grande satisfação) e ver outras pessoas extremamente satisfeitas com os resultados (um dos meus maiores porquês). 🔋</li>
+    </ol>
+  </details>
+</article>
+
 inspired by: [roaldnefs](https://github.com/roaldnefs/roaldnefs) and [jfzini](https://github.com/jfzini)
 <!---
 Lucaskoyamah/Lucaskoyamah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
