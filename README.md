@@ -54,6 +54,7 @@
 </table>
 <h3 align="center">
   <a href="https://lucaskoyama.dev/"> Portfolio </a>👨‍💻
+  <a href="https://gist.github.com/lucasKoyama">Minhas Gists </a>📚
 </h3>
 
 <h2>:hammer_and_wrench: Linguagens e ferramentas:</h2>
