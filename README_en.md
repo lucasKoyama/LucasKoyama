@@ -58,6 +58,12 @@
 </h3>
 
 <h2>:hammer_and_wrench: Languages and Tools:</h2>
+
+<div dir="auto" align="center">
+  <img class="output" height="175" src="https://github-readme-stats.vercel.app/api?username=lucasKoyama&amp;theme=react&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
+  <img class="output" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasKoyama&amp;theme=react&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="github top languages">
+</div>
+
 <div align="start" dir="auto">
   <br>
   <strong>Fundamentals: </strong><br>
@@ -124,11 +130,6 @@
   <br>
 </div>
 <br>
-
-<div dir="auto" align="center">
-  <img class="output" height="175" src="https://github-readme-stats.vercel.app/api?username=lucasKoyama&amp;theme=react&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
-  <img class="output" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasKoyama&amp;theme=react&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="github top languages">
-</div>
 
 <h2 align="center">Missed an "about me"?</h2>
 <article>
