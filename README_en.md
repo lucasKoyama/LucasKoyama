@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" style="max-width: 100%;" />
   </a>
 </div>
+
 <div align="center">
   <table>
     <tbody>
@@ -22,6 +23,11 @@
     </tbody>
   </table>
 </div>
+
+<h4 align="center">
+  <a href="https://lucaskoyama.dev/"> Portfolio </a>👨‍💻
+  <a href="https://gist.github.com/lucasKoyama">My Gists </a>📚
+</h4>
 
 <h2>:rocket: Experience and Projects</h2>
 <table align="center">
@@ -52,10 +58,6 @@
     </tr>
   </tbody>
 </table>
-<h3 align="center">
-  <a href="https://lucaskoyama.dev/"> Portfolio </a>👨‍💻
-  <a href="https://gist.github.com/lucasKoyama">My Gists </a>📚
-</h3>
 
 <h2>:hammer_and_wrench: Languages and Tools:</h2>
 
