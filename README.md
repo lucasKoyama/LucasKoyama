@@ -29,7 +29,7 @@
   <a href="https://gist.github.com/lucasKoyama">Minhas Gists </a>📚
 </h4>
 
-<h2>:rocket: Experiência e Projetos (Veja meus repos pinados!)</h2>
+<h2>:rocket: Experiência e Projetos (Veja os repos pinados!)</h2>
 <table align="center">
   <tbody>
     <tr>
