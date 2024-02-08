@@ -130,10 +130,12 @@
   <a href="https://zoom.us/" rel="nofollow"><img align="center" alt="Zoom" height="30" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" style="max-width: 100%;"></a>
   <a href="https://discord.com/" rel="nofollow"><img align="center" alt="Discord" height="30" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" style="max-width: 100%;"></a>
   <br>
+
+  <br>
+  <strong>Aprendendo</strong><br>
+  <a href="https://astro.build/" rel="nofollow"><img align="center" alt="Astro" height="30" src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&amp;logo=astro&amp;logoColor=white" style="max-width: 100%;"></a>
 </div>
 <br>
-
-Inspirado em: [roaldnefs](https://github.com/roaldnefs/roaldnefs) e [jfzini](https://github.com/jfzini)
 
 <h2 align="center">Sentiu falta de um "sobre"?</h2>
 <article>
