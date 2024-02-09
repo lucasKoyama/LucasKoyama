@@ -68,7 +68,7 @@
 
 <div align="start" dir="auto">
   <br>
-  <strong>🛠️Fundamentais: </strong><br>
+  <strong>🛠️ Fundamentais: </strong><br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" rel="nofollow"><img align="center" alt="HTML" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="max-width: 100%;"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" rel="nofollow"><img align="center" alt="CSS" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="max-width: 100%;"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"><img align="center" alt="JavaScript" height="30" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="max-width: 100%;"></a>
@@ -118,13 +118,13 @@
   <br>
 
   <br>
-  <strong>✅ Qualidade de código</strong><br>
+  <strong>✅ Qualidade de código: </strong><br>
   <a href="https://eslint.org/" rel="nofollow"><img align="center" alt="eslint" height="30" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" style="max-width: 100%;"></a>
   <a rel="nofollow"><img align="center" alt="eslint" height="30" src="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white" style="max-width: 100%;"></a>
   <br>
   
   <br>
-  <strong>💬 Comunicações no trabalho</strong><br>
+  <strong>💬 Comunicações no trabalho: </strong><br>
   <a href="https://miro.com/" rel="nofollow"><img align="center" alt="Miro" height="30" src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" style="max-width: 100%;"></a>
   <a href="https://slack.com/" rel="nofollow"><img align="center" alt="Slack" height="30" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" style="max-width: 100%;"></a>
   <a href="https://zoom.us/" rel="nofollow"><img align="center" alt="Zoom" height="30" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" style="max-width: 100%;"></a>
@@ -132,7 +132,7 @@
   <br>
 
   <br>
-  <strong>🔬 Aprendendo</strong><br>
+  <strong>🔬 Aprendendo: </strong><br>
   <a href="https://astro.build/" rel="nofollow"><img align="center" alt="Astro" height="30" src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&amp;logo=astro&amp;logoColor=white" style="max-width: 100%;"></a>
 </div>
 <br>
