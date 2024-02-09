@@ -118,13 +118,13 @@
   <br>
 
   <br>
-  <strong>✅ Code quality</strong><br>
+  <strong>✅ Code quality: </strong><br>
   <a href="https://eslint.org/" rel="nofollow"><img align="center" alt="eslint" height="30" src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" style="max-width: 100%;"></a>
   <a rel="nofollow"><img align="center" alt="eslint" height="30" src="https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=sonarlint&logoColor=white" style="max-width: 100%;"></a>
   <br>
   
   <br>
-  <strong>💬 Communication tools at work</strong><br>
+  <strong>💬 Communication tools at work: </strong><br>
   <a href="https://miro.com/" rel="nofollow"><img align="center" alt="Miro" height="30" src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036" style="max-width: 100%;"></a>
   <a href="https://slack.com/" rel="nofollow"><img align="center" alt="Slack" height="30" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" style="max-width: 100%;"></a>
   <a href="https://zoom.us/" rel="nofollow"><img align="center" alt="Zoom" height="30" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" style="max-width: 100%;"></a>
@@ -132,7 +132,7 @@
   <br>
   
   <br>
-  <strong>🔬 Learning</strong><br>
+  <strong>🔬 Learning: </strong><br>
   <a href="https://astro.build/" rel="nofollow"><img align="center" alt="Astro" height="30" src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&amp;logo=astro&amp;logoColor=white" style="max-width: 100%;"></a>
 </div>
 <br>
