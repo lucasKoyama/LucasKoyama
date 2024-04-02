@@ -39,7 +39,7 @@
           <strong>Desenvolvedor Front end</strong> <br>
           <a href="https://peakonedev.com/" rel="nofollow">
             <strong>Peak One Dev</strong>
-          </a> • Full Time <br>
+          </a> • Integral <br>
           Linguagens &amp; Tecnologias: <code>Astro.js</code> <code>HTML 5</code> <code>CSS3</code> <code>JavaScript ES6</code> <code>Git & Github</code>
           <br>
         </p>
