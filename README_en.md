@@ -34,24 +34,24 @@
   <tbody>
     <tr>
       <td width="800" height="150">
-        <a href="https://www.oncet.com.br/" rel="nofollow"><img align="left" height="94px" width="94px" alt="ON-CET" src="https://github.com/lucasKoyama/LucasKoyama/blob/main/oncet_icon.png" style="max-width: 100%;"></a>
+        <a href="https://peakonedev.com/" rel="nofollow"><img align="left" height="94px" width="94px" alt="Peak One Dev" src="https://lh3.googleusercontent.com/u/0/drive-viewer/AKGpihYQF1ERFLLWeVcI5XhjtFFQDRfmRBYir9WuKeSDUlLQAopBptfs8kHTmI3K9HKC53MeRghcD6l9QWWB_X9pvhkd8G1gxg=w1920-h868" style="max-width: 100%;"></a>
         <p dir="auto">
-          <strong>Front end developer</strong> <br>
-          <a href="https://www.oncet.com.br/" rel="nofollow">
-            <strong>ON-CET</strong>
+          <strong>Front end Developer</strong> <br>
+          <a href="https://peakonedev.com/" rel="nofollow">
+            <strong>Peak One Dev</strong>
           </a> • Freelance <br>
-          Languages &amp; Technologies: <code>HTML 5</code> <code>CSS3</code> <code>Javascript ES6</code> <code>Git & Github</code>  
+          Linguagens &amp; Tecnologias: <code>Astro.js</code> <code>HTML 5</code> <code>CSS3</code> <code>JavaScript ES6</code> <code>Git & Github</code>
           <br>
         </p>
       </td>
       <td width="800" height="150">
-        <a href="https://www.devs4good.com.br/" rel="nofollow"><img align="left" height="94px" width="94px" alt="Devs4Good" src="https://www.devs4good.com.br/assets/header-astronaut-ac0308c6.webp" style="max-width: 100%;"></a>
+        <a href="https://www.oncet.com.br/" rel="nofollow"><img align="left" height="94px" width="94px" alt="ON-CET" src="https://github.com/lucasKoyama/LucasKoyama/blob/main/oncet_icon.png" style="max-width: 100%;"></a>
         <p dir="auto">
-          <strong>Front end developer</strong> <br>
-          <a href="https://www.devs4good.com.br/" rel="nofollow">
-            <strong>Devs4Good</strong>
+          <strong>Front end Developer</strong> <br>
+          <a href="https://www.oncet.com.br/" rel="nofollow">
+            <strong>ON-CET</strong>
           </a> • Freelance <br>
-          Languages &amp; Technologies: <code>React</code> <code>HTML 5</code> <code>CSS3</code> <code>Javascript ES6</code> <code>Vite</code> <code>Git & Github</code>
+          Linguagens &amp; Tecnologias: <code>Next.js</code> <code>HTML 5</code> <code>CSS3</code> <code>Javascript ES6</code> <code>Git & Github</code>  
           <br>
         </p>
       </td>
