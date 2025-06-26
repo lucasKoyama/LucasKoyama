@@ -36,7 +36,7 @@
       <td width="800" height="150">
         <a href="https://peakonedev.com/" rel="nofollow"><img align="left" alt="Peak One Dev" src="https://peakonedev.com/_astro/logo-white.CXW3BGtp.webp" style="max-width: 100%;"></a>
         <p dir="auto">
-          <strong>Front end Developer</strong> <br>
+          <strong>Tech Lead</strong> <br>
           <a href="https://peakonedev.com/" rel="nofollow">
             <strong>Peak One Dev</strong>
           </a> • Full Time <br>
