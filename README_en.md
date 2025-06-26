@@ -34,7 +34,7 @@
   <tbody>
     <tr>
       <td width="800" height="150">
-        <a href="https://peakonedev.com/" rel="nofollow"><img align="left" height="94px" width="94px" alt="Peak One Dev" src="https://peakonedev.com/_astro/logo-transparent.7280af00_1S5M1p.webp" style="max-width: 100%;"></a>
+        <a href="https://peakonedev.com/" rel="nofollow"><img align="left" alt="Peak One Dev" src="https://peakonedev.com/_astro/logo-white.CXW3BGtp.webp" style="max-width: 100%;"></a>
         <p dir="auto">
           <strong>Front end Developer</strong> <br>
           <a href="https://peakonedev.com/" rel="nofollow">
